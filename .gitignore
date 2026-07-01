@@ -1,0 +1,50 @@
+############################
+# Android
+############################
+
+android-app/.gradle/
+android-app/.idea/
+android-app/local.properties
+android-app/**/build/
+
+############################
+# Spring Boot
+############################
+
+springboot-backend/.gradle/
+springboot-backend/.idea/
+springboot-backend/build/
+springboot-backend/target/
+
+############################
+# IntelliJ
+############################
+
+.idea/
+
+############################
+# VS Code
+############################
+
+.vscode/
+
+############################
+# Logs
+############################
+
+*.log
+
+############################
+# OS Files
+############################
+
+Thumbs.db
+.DS_Store
+desktop.ini
+
+############################
+# Environment
+############################
+
+.env
+.env.*
