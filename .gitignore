@@ -10,11 +10,15 @@ android-app/**/build/
 ############################
 # Spring Boot
 ############################
+############################
+# Spring Boot
+############################
 
 springboot-backend/.gradle/
 springboot-backend/.idea/
 springboot-backend/build/
 springboot-backend/target/
+springboot-backend/BOOT-INF/
 
 ############################
 # IntelliJ
